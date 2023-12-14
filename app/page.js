@@ -18,7 +18,7 @@ export default async function Home() {
       {data.map((items) => {
         return (
           <div key={items.id}>
-            {items.email} || {items.id}
+            {items.id} - - - - {items.email}
           </div>
         );
       })}
