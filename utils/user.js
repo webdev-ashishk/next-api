@@ -85,18 +85,18 @@ export const user = [
     email: "ramramram@gmail.com",
   },
   {
-    id: 17,
-    user: "ram",
+    id: 18,
+    user: "ramu",
     email: "ramramram@gmail.com",
   },
   {
-    id: 17,
-    user: "ram",
+    id: 19,
+    user: "ramcharan",
     email: "ramramram@gmail.com",
   },
   {
-    id: 17,
-    user: "ram",
-    email: "ramramram@gmail.com",
+    id: 20,
+    user: "ramcharan",
+    email: "ramramramcharan@gmail.com",
   },
 ];
