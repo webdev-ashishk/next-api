@@ -109,4 +109,9 @@ export const user = [
     user: "sonu",
     email: "sonu2123@gmail.com",
   },
+  {
+    id: 23,
+    user: "bittu",
+    email: "bittu2223@gmail.com",
+  },
 ];
