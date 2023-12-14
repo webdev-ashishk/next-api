@@ -13,7 +13,7 @@ export default async function Home() {
   return (
     <div style={{ margin: "10px" }}>
       <h1> this is backend of next-JS </h1>
-      <h1>List of all users!</h1>
+      <h1>List of all users!!</h1>
       {data.map((items) => {
         return (
           <div key={items.id}>
